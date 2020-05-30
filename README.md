@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mugdha's Dental Solutions
 
 You can use the [editor on GitHub](https://github.com/mugdharaut/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
